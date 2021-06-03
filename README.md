@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mina3010 
+- 👀 I’m interested in Android development by java and kotlin
+- 🌱 I’m currently learning Android development
+- 💞️ I’m looking to collaborate on android development
+- 📫 How to reach me email: menamaged833@gmail.com  || +20 1100581958
