@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me email: menamaged833@gmail.com  || +20 1100581958
 - LinkedIn : https://www.linkedin.com/in/mina-magid-82561718a
+- MY CV : https://drive.google.com/drive/u/0/folders/13rni-B7rt_si8sNO29st9FMgtRdFrWc2
