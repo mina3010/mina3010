@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mina3010 
-- 👀 I’m interested in Flutter mobile and web and desktop and Android native development by java and kotlin and Flutter development by dart
-- 💞️ I’m looking to collaborate on mobile app development (android or flutter)
+- 👀 I’m interested in Flutter mobile and web and desktop and Android native development by java and kotlin 
+- 💞️ I’m looking to collaborate on software engineering (android or flutter) with +4 year exp
 - 📫 How to reach me email: menamaged833@gmail.com  || +20 1100581958
 - LinkedIn : https://www.linkedin.com/in/mina-magid-82561718a
 - MY CV : https://drive.google.com/drive/u/0/folders/13rni-B7rt_si8sNO29st9FMgtRdFrWc2
