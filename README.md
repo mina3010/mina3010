@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mina3010 
-- 👀 I’m interested in Android development by java and kotlin and Flutter development by dart
+- 👀 I’m interested in Flutter mobile and web and desktop and Android native development by java and kotlin and Flutter development by dart
 - 💞️ I’m looking to collaborate on mobile app development (android or flutter)
 - 📫 How to reach me email: menamaged833@gmail.com  || +20 1100581958
 - LinkedIn : https://www.linkedin.com/in/mina-magid-82561718a
